@@ -1,6 +1,6 @@
 # Andreas Wahl | Welzheim 🇩🇪
 
-**Embedded Systems • Electronics • Firmware Development • PCB Design**
+**Software Development • Embedded Systems • Electronics • PCB Design**
 
 *Passionate about turning ideas into complete technical solutions – from concept and hardware design to firmware, testing, documentation, and long-term operation.*
 
