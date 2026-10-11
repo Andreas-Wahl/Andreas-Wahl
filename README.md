@@ -1,25 +1,73 @@
-# Andreas Wahl | Welzheim :de:  
+# Andreas Wahl | Welzheim 🇩🇪
 
-**information technology - communication technology - electronics** |
-***innovative + competent + efficient***
+**Embedded Systems • Electronics • Firmware Development • PCB Design**
 
-## Welcome to my GitHub profile 👋
-I'm here to collaborate 👯 with other developers 👨‍💻👩‍💻 and friends 👨👩 on exciting and interesting hardware 💻🔌 and software 💾📀 projects.
+*Passionate about turning ideas into complete technical solutions – from concept and hardware design to firmware, testing, documentation, and long-term operation.*
 
-In addition ➕ , I will occasionally publish some of my own projects here.
+## Welcome to my GitHub Profile 👋
 
-## Private Website
-You can find more information ℹ️ about me, my professional activity and career, as well as my hobbies on my private website 🔗 :
-**https://www.andreas-wahl.de/**
+Hello and welcome!
 
-## Social Media
-You can also find and reach me at the following social media:
+My name is Andreas Wahl, and I enjoy developing complete embedded systems and electronic devices.
 
-- [LinkedIn](https://www.linkedin.com/in/andreas-wahl-welzheim)
-- [Xing](https://www.xing.com/profile/Andreas_Wahl14)
-- [Facebook](https://www.facebook.com/AndyWHM)
-- [Twitter](https://twitter.com/AndyWHM)
- 
+My projects often combine multiple engineering disciplines:
+
+- 🔧 Electronics design and circuit development
+- 📐 PCB design with KiCad
+- ⚙️ Embedded firmware development in C/C++ and AVR Assembly
+- 📡 Digital signal analysis and protocol decoding
+- 🐞 Debugging, testing, and validation
+- 📊 Technical documentation
+- 🖨️ 3D CAD design and additive manufacturing
+
+I use GitHub to share selected hardware, firmware, and CAD projects, document my development process, and exchange ideas with other engineers, developers, and technology enthusiasts.
+
+## Featured Areas of Interest
+
+- Embedded Systems
+- Microcontrollers (AVR)
+- Firmware Development
+- PCB Design
+- Signal Processing
+- Industrial Electronics
+- Technical Documentation
+- FreeCAD & 3D Design
+- Open Hardware
+- Open Source Software
+
+## Highlight Project
+
+### 🚦 Slotcar Startlight "Bären(n)keller"
+
+A complete embedded system developed from scratch including:
+
+- Custom hardware design
+- Schematic capture and PCB layout
+- AVR Assembly firmware
+- Manchester protocol decoder
+- Finite State Machine (FSM)
+- Debugging and validation
+- 3D CAD design
+- Technical documentation
+
+The project has been operating reliably in real-world use for several years and serves as an excellent example of a complete hardware and software development workflow.
+
+## Personal Website
+
+For more information about my professional background, projects, and interests, please visit:
+
+🌐 [Andreas-Wahl.de](https://www.andreas-wahl.de/)
+
+## Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andreas-wahl-welzheim)
+- 👔 [Xing](https://www.xing.com/profile/Andreas_Wahl14)
+- 📘 [Facebook](https://www.facebook.com/AndyWHM)
+- 🐦 [X / Twitter](https://twitter.com/AndyWHM)
+
+---
+
+*"Engineering is not only about making things work – it's about understanding why they work."*
 
 <!--
 **Andreas-Wahl/Andreas-Wahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
