@@ -8,7 +8,7 @@
 
 Hello and welcome!
 
-My name is Andreas Wahl, and I enjoy developing complete embedded systems and electronic devices.
+My name is Andreas Wahl, and I enjoy developing complete technical solutions ranging from software applications and embedded systems to electronics and CAD-based designs.
 
 My projects often combine multiple engineering disciplines:
 
